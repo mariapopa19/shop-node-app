@@ -1,0 +1,7 @@
+/node_modules
+
+message.txt
+access.log
+nodemon.json
+server.cert
+server.key
